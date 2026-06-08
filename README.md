@@ -31,8 +31,4 @@
 
 <div align="center">
 
-### Thanks for visiting 👋
 
-<img src="https://komarev.com/ghpvc/?username=Ruby12041016&style=for-the-badge" />
-
-</div>
