@@ -19,16 +19,5 @@
 ---
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ruby12041016/Ruby12041016/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-<div align="center">
 
 
